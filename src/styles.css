@@ -72,6 +72,11 @@
   margin-top: 15px;
 }
 
+#about {
+  margin-top: 25px;
+  background-color: white;
+}
+
 button {
   background-color: antiquewhite;
   border: none;
